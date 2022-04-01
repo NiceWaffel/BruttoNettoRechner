@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BruttoNettoRechner</string>
+    <string name="value">Value</string>
+    <string name="hallo_welt">This App allows you to calculate values before and after tax.</string>
+    <string name="tax">Tax</string>
+</resources>
